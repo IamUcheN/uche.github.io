@@ -1,2 +1,2 @@
-# uche.github.io
+uche.github.io
 Github portfolio
